@@ -1,0 +1,8 @@
+tensorflow
+tensorflow-text
+einops
+numpy
+pandas
+scikit-learn
+matplotlib
+plotly
